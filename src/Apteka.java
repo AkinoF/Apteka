@@ -21,3 +21,4 @@ public class Apteka {
         System.out.println("Общая стоимость всех лекарств: " + apteka.obshchayaStoimost() + " руб.");
     }
 }
+//Добавить несколько аптек, для полного завершения задания.
